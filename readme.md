@@ -4,13 +4,13 @@
 <br>
 
 ## Example 
-<a href="https://colab.research.google.com/github/rizzlydev/mystorage/blob/main/xrdp.ipynb#scrollTo=vk2qtOTGIFsQ" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Deploy in google colab."/></a>
+<a href="https://colab.research.google.com/github/mgmmgm123/ggm/blob/main/xrdp.ipynb#scrollTo=vk2qtOTGIFsQ" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Deploy in google colab."/></a>
 
 ## Installing
 - Fork This Repo
 - Don't forget to give star! :3
 - Visit [ngrok.com](https://dashboard.ngrok.com/auth/your-authtoken) Copy and Paste Your Authtoken
-- Change Ngrok Authtoken in [`./autosetngrok.sh`](https://github.com/RizzyFuzz/mystorage/blob/main/autosetngrok.sh)
+- Change Ngrok Authtoken in [`./autosetngrok.sh`](https://github.com/mgmmgm123/ggm/blob/main/autosetngrok.sh)
 - Deploy your repo on [google colab](https://colab.research.google.com/github)
 - Enjoy~
 
@@ -21,7 +21,7 @@
 
 ### **Preview**
 <p align="center">
-    <img alt="Preview" src="https://raw.githubusercontent.com/RizzyFuzz/mystorage/main/screenshot.jpg">
+    <img alt="Preview" src="https://raw.githubusercontent.com/mgmmgm123/ggm/main/screenshot.jpg">
 </p>
 
 
